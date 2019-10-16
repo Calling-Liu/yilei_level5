@@ -1,5 +1,2 @@
 # yilei_level5
-python2对于百度百科词条的爬取
-version 1.0更新于2019年10月13日
-只进行标题和概要的爬取
-源码中url_manage.py作为启动程序和主程序的所在
+python爬虫开发
